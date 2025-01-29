@@ -16,7 +16,6 @@ matchas.forEach(matcha => {
                     </div>
                     <div class="rating">${matcha.rating}</div>
                 `;
-    //console.log("hi")
     matchaList.append(card);
 });
 
